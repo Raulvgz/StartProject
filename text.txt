@@ -1,1 +1,2 @@
 Archivo text.txt creado inicialmente con una sola línea.
+Añadida una segunda línea para primera modificación
