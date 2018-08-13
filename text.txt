@@ -1,2 +1,3 @@
 Archivo text.txt creado inicialmente con una sola línea.
 Añadida una segunda línea para primera modificación
+Tercera línea añadida sólo en branch master
